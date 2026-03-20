@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Arunav Mehta </h1>
+<h3 align="center">Full Stack Web Developer | B.Tech CSE Student</h3><p align="center">
+Building real-world web applications with clean UI & scalable backend.
+</p>---
 
-<!--
-**Arunav23/Arunav23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student
+- 💻 Passionate about Full Stack Development
+- ⚡ I enjoy building practical and user-focused web applications
+- 📈 Currently improving my problem-solving & backend skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Tech Stack
+
+💻 Frontend
+
+"HTML" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS" (https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+🧠 Backend
+
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+"Express" (https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+🗄️ Database
+
+"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+"Firebase" (https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>---
+
+📫 Connect With Me
+
+- 🔗 Instagram:https://www.instagram.com/_ar.unav_?igsh=MWVzMzM3MTVpMmY4aA==
+- 📧 Email:arunav232006@gmail.com
+
+---
+
+⭐ Consistency beats talent when talent doesn’t work hard.

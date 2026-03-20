@@ -47,4 +47,4 @@ Building real-world web applications with clean UI & scalable backend.
 
 ---
 
-⭐ Consistency beats talent when talent doesn’t work hard.
+⭐ @Arunav23

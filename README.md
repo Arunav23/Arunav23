@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Arunav Mehta </h1>
+<h1 align="center">Hey 👋, I'm Arunav Mehta</h1>
 <h3 align="center">Full Stack Web Developer | B.Tech CSE Student</h3><p align="center">
 Building real-world web applications with clean UI & scalable backend.
 </p>---
@@ -36,14 +36,14 @@ Building real-world web applications with clean UI & scalable backend.
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arunav23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arunav23&theme=tokyonight" />
 </p>---
 
 📫 Connect With Me
 
-- 🔗 Instagram:https://www.instagram.com/_ar.unav_?igsh=MWVzMzM3MTVpMmY4aA==
-- 📧 Email:arunav232006@gmail.com
+- 🔗 Instagram: https://www.instagram.com/ar.unav
+- 📧 Email: arunav232006@gmail.com
 
 ---
 

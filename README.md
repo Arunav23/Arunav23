@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Arunav Mehta</h1>
 <h3 align="center">Full Stack Web Developer | B.Tech CSE Student</h3><p align="center">
 Building real-world web applications with clean UI & scalable backend.
-</p>---
+</p>
 
 🚀 About Me
 
